@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeFit_TestTasks", "BeFit_TestTasks\BeFit_TestTasks.csproj", "{A682DD50-0696-42ED-B14C-BAECEFC1EE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682DD50-0696-42ED-B14C-BAECEFC1EE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682DD50-0696-42ED-B14C-BAECEFC1EE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682DD50-0696-42ED-B14C-BAECEFC1EE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682DD50-0696-42ED-B14C-BAECEFC1EE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {772E74B6-27C2-4EAC-A593-0ADDAA4EDCFE}
+	EndGlobalSection
+EndGlobal
